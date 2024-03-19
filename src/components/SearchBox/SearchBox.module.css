@@ -1,0 +1,13 @@
+.searchBox{
+    display: flex;
+    flex-direction: column;
+    padding: 15px 0;
+}
+
+.search{
+    width: 300px;
+    height: 40px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 5px;
+}
