@@ -2,6 +2,7 @@
   font-family: sans-serif;
   line-height: 1.5;
   font-weight: 400;
+  --main-color: #a03aff;
 }
 
 section {
@@ -33,4 +34,8 @@ ol {
 img {
   display: block;
   max-width: 100%;
+}
+
+button{
+  cursor: pointer;
 }
